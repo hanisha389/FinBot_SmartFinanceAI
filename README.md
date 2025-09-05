@@ -1,7 +1,7 @@
 # FinBot 
 A smart chatbot which is use to answer all your finance related questions 
 have a look at the model here
-``` https://drive.google.com/drive/folders/13gvkcU3s_dvxXb2NntQ8QbpIicfUjKs8 ```
+https://drive.google.com/drive/folders/13gvkcU3s_dvxXb2NntQ8QbpIicfUjKs8 
 
 ## Overview  
 It consists of a clean register and login page 
