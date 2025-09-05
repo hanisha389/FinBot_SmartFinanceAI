@@ -1,15 +1,15 @@
 # FinBot 
-A smart chatbot which is use to answer all your finance related questions 
+A smart chatbot which is use to answer all your finance related questions,
 have a look at the model here
 https://drive.google.com/drive/folders/13gvkcU3s_dvxXb2NntQ8QbpIicfUjKs8 
 
 ## Overview  
 It consists of a clean register and login page 
-- Chatbot page with a student and professional mode for different ways of answer
-- Task page which gives you daily and weekly task to save money and in return gives you level points 
-- Graphical representation of it and a leaderboard system to track your savings with your friends 
-- A Simple Loan calculator to help you calculate loans for your bike , car , home 
-- Stock viewer which lets you view the stock of your choice provides a graphical representation of the Stock 
+- Chatbot page with a student and professional mode for different ways of responses.
+- Task page which gives you daily and weekly task to save money and in return gives you level points.
+- Graphical representation of it and a leaderboard system to track your savings with your friends.
+- A Simple Loan calculator to help you calculate loans for your bike , car , home.
+- Stock viewer, which lets you view the stock of your choice and provides a graphical representation of the Stock. 
 
 ## Tech Stack
 - python(Transformers , Google generativeAI , pandas)
@@ -19,8 +19,8 @@ It consists of a clean register and login page
 ## Installation 
 1. Clone the repo  
    ```
-   git clone https://github.com/Kartikey5853/SmartFinanceAI_Finbot
-   cd SmartFinanceAI_Finbot
+   git clone https://github.com/hanisha389/FinBot_SmartFinanceAI
+   cd SmartFinanceAI_Finbot-main
     ```
 2. Install the requirements of the project   
     ```pip install -r requirements.txt```
