@@ -1,0 +1,133 @@
+{
+    "Hansika": {
+        "password": "alsoHansika",
+        "occupation": "does nothing ",
+        "income": "35000",
+        "xp": 30,
+        "savings": 3900,
+        "about you": "",
+        "Daily Tasks": [
+            {
+                "task": "Skip coffee",
+                "amount": 50
+            },
+            {
+                "task": "Walk instead of cab",
+                "amount": 100,
+                "completed": true
+            }
+        ],
+        "Weekly Tasks": [
+            {
+                "task": "No shopping week",
+                "amount": 500,
+                "completed": true
+            },
+            {
+                "task": "Cook at home 3 times",
+                "amount": 300,
+                "completed": true
+            }
+        ],
+        "last_daily": "2025-08-29T23:27:50.926824",
+        "last_weekly": "2025-08-29T23:27:52.667964"
+    },
+    "kartikey": {
+        "password": "manthra",
+        "occupation": "data scientist ",
+        "income": "100000",
+        "xp": 35,
+        "savings": 3100,
+        "about you": "",
+        "Daily Tasks": [
+            {
+                "task": "Walk instead of cab",
+                "amount": 100,
+                "completed": true
+            },
+            {
+                "task": "Skip coffee",
+                "amount": 50,
+                "completed": true
+            }
+        ],
+        "Weekly Tasks": [
+            {
+                "task": "No shopping week",
+                "amount": 500,
+                "completed": true
+            },
+            {
+                "task": "Cook at home 3 times",
+                "amount": 300,
+                "completed": true
+            }
+        ],
+        "last_daily": "2025-08-29T20:17:22.395808",
+        "last_weekly": "2025-08-29T20:18:07.496060"
+    },
+    "hanisha": {
+        "password": "dumbo",
+        "occupation": "actor",
+        "income": "300000",
+        "xp": 24,
+        "savings": 4950,
+        "about you": "",
+        "Daily Tasks": [
+            {
+                "task": "Skip coffee",
+                "amount": 50,
+                "completed": true
+            },
+            {
+                "task": "Walk instead of cab",
+                "amount": 100,
+                "completed": true
+            }
+        ],
+        "Weekly Tasks": [
+            {
+                "task": "No shopping week",
+                "amount": 500,
+                "completed": true
+            },
+            {
+                "task": "Cook at home 3 times",
+                "amount": 300,
+                "completed": true
+            }
+        ],
+        "last_daily": "2025-08-29T20:28:04.195061",
+        "last_weekly": "2025-08-29T20:28:07.515745"
+    },
+    "mohasin": {
+        "password": "sujha",
+        "occupation": "musician",
+        "income": "200000",
+        "xp": 8,
+        "savings": 300,
+        "about you": "",
+        "Daily Tasks": [
+            {
+                "task": "Skip coffee",
+                "amount": 50
+            },
+            {
+                "task": "Walk instead of cab",
+                "amount": 100
+            }
+        ],
+        "Weekly Tasks": [
+            {
+                "task": "No shopping week",
+                "amount": 500
+            },
+            {
+                "task": "Cook at home 3 times",
+                "amount": 300
+            }
+        ],
+        "last_daily": "2025-08-30T01:09:45.545380",
+        "last_weekly": "2025-08-30T01:09:46.944255"
+    }
+}

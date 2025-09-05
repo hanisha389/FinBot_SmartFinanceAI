@@ -1,0 +1,8 @@
+This is the google drive link for the videos 
+
+https://drive.google.com/drive/folders/13gvkcU3s_dvxXb2NntQ8QbpIicfUjKs8?usp=sharing
+
+
+the main1.py has gemini as the model and main2.py has granite as the model 
+run it using streamlit run main{which file}.py
+
